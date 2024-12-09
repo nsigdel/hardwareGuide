@@ -3,49 +3,49 @@
     {
       "name": "AMD Ryzen 5 5600",
       "price": "$110",
-      "imageUrl": "https://raw.githubusercontent.com/yourusername/hardware-data/main/cpu_5600.jpg"
+      "imageUrl": "https://github.com/nsigdel/hardwareGuide/blob/main/4060.jpg"
     },
     {
       "name": "AMD Ryzen 5 7600",
       "price": "$180",
-      "imageUrl": "https://raw.githubusercontent.com/yourusername/hardware-data/main/cpu_7600.jpg"
+      "imageUrl": "https://github.com/nsigdel/hardwareGuide/blob/main/7600.jpg"
     },
     {
       "name": "AMD Ryzen 5 7600X",
       "price": "$199",
-      "imageUrl": "https://raw.githubusercontent.com/yourusername/hardware-data/main/cpu_7600x.jpg"
+      "imageUrl": "https://github.com/nsigdel/hardwareGuide/blob/main/7600x.jpg"
     },
     {
       "name": "AMD Ryzen 7 7700XT",
       "price": "$280",
-      "imageUrl": "https://raw.githubusercontent.com/yourusername/hardware-data/main/cpu_7700xt.jpg"
+      "imageUrl": "https://github.com/nsigdel/hardwareGuide/blob/main/7700xt.jpg"
     }
   ],
   "gpus": [
     {
       "name": "AMD Radeon RX 6600",
       "price": "$190",
-      "imageUrl": "https://raw.githubusercontent.com/yourusername/hardware-data/main/gpu_6600.jpg"
+      "imageUrl": "https://github.com/nsigdel/hardwareGuide/blob/main/6600.jpg"
     },
     {
       "name": "Nvidia RTX 4060",
       "price": "$304",
-      "imageUrl": "https://raw.githubusercontent.com/yourusername/hardware-data/main/gpu_4060.jpg"
+      "imageUrl": "https://github.com/nsigdel/hardwareGuide/blob/main/4060.jpg"
     },
     {
       "name": "AMD Radeon RX 7700XT",
       "price": "$399",
-      "imageUrl": "https://raw.githubusercontent.com/yourusername/hardware-data/main/gpu_7700xt.jpg"
+      "imageUrl": "https://github.com/nsigdel/hardwareGuide/blob/main/7700xt.jpg"
     },
     {
       "name": "AMD Radeon RX 7900GRE",
       "price": "$584",
-      "imageUrl": "https://raw.githubusercontent.com/yourusername/hardware-data/main/7900gre.jpg"
+      "imageUrl": "https://github.com/nsigdel/hardwareGuide/blob/main/7900gre.jpg"
     },
     {
       "name": "Nvidia RTX 4070 Super",
       "price": "$600",
-      "imageUrl": "https://raw.githubusercontent.com/yourusername/hardware-data/main/gpu_4070super.jpg"
+      "imageUrl": "https://github.com/nsigdel/hardwareGuide/blob/main/4070super.jpg"
     }
   ]
 }
